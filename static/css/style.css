@@ -33,7 +33,7 @@ body {
 }
 @media screen and (max-width: 500px) {
   .posts li .name_body .name {
-    font-size: 40px;
+    font-size: 20px;
   }
 }
 /*
@@ -213,7 +213,7 @@ textarea {
 }
 @media screen and (max-width: 500px) {
   .posts li .name_body {
-    font-size: 20px;
+    font-size: 14px;
   }
 }
 
